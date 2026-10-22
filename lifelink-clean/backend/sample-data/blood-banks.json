@@ -1,0 +1,14 @@
+[
+  {
+    "name": "JSON Showcase Centre",
+    "city": "Thane",
+    "address": "Fictional city centre - do not travel here",
+    "lat": 19.22,
+    "lng": 72.98,
+    "phone": "DEMO-NOT-CALLABLE",
+    "hours": "Demo opening hours",
+    "components": "red_cells,platelets",
+    "source": "Fictional JSON import demonstration",
+    "demo": true
+  }
+]
