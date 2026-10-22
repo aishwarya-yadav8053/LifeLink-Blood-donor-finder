@@ -6,6 +6,9 @@ A red-and-white React application backed by FastAPI and a real SQLite `.db` file
 
 This is a college demonstration and coordination prototype, **not a medical or emergency service**. All bundled donors and blood banks are fictional. Do not call or travel to demo facilities. Compatibility and eligibility require professional confirmation.
 
+## 🔗 Live Demo
+**[Open the live site](https://your-app.onrender.com)**
+
 ## 1. What is included
 
 - Responsive overview, donor finder, clustered map, request board and blood-bank directory.
